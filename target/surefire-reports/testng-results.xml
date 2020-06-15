@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-14T19:06:41Z" name="BDD Test Suite" finished-at="2020-06-14T19:06:48Z" duration-ms="7044">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ApiExampleProjectTestRunner@7b9a4292]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2020-06-14T19:06:41Z" name="Login and Update Profile Test" finished-at="2020-06-14T19:06:48Z" duration-ms="7044">
+      <class name="ApiExampleProjectTestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:ApiExampleProjectTestRunner@7b9a4292]" started-at="2020-06-14T19:06:41Z" name="setUpClass" finished-at="2020-06-14T19:06:41Z" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ApiExampleProjectTestRunner@7b9a4292]" started-at="2020-06-14T19:06:42Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-14T19:06:46Z" duration-ms="4388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Example scenario for get user data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Api example"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ApiExampleProjectTestRunner@7b9a4292]" started-at="2020-06-14T19:06:46Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-14T19:06:47Z" duration-ms="520" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Example scenario for get user data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Api example"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ApiExampleProjectTestRunner@7b9a4292]" started-at="2020-06-14T19:06:47Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-14T19:06:47Z" duration-ms="777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Example scenario for error 500"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Api example"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ApiExampleProjectTestRunner@7b9a4292]" started-at="2020-06-14T19:06:47Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-06-14T19:06:48Z" duration-ms="628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Example scenario for input parameters"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Api example"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:ApiExampleProjectTestRunner@7b9a4292]" started-at="2020-06-14T19:06:48Z" name="tearDownClass" finished-at="2020-06-14T19:06:48Z" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- ApiExampleProjectTestRunner -->
+    </test> <!-- Login and Update Profile Test -->
+  </suite> <!-- BDD Test Suite -->
+</testng-results>
