@@ -10,6 +10,13 @@ public enum EntityConfiguration {
             return UserService.class;
         }
 
+    },
+    COUNTRY {
+        @Override
+        public Class<?> getEntityService() {
+            return UserService.class;
+        }
+
     };
     public abstract Class<?> getEntityService();
 }

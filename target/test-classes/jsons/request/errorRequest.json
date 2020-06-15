@@ -1,8 +1,7 @@
 {
-  "url": "https://postman-echo.com/",
-  "endpoint": "status/500",
   "headers": {
-    "Content-Type": "application/json"
+    "x-rapidapi-host": "corona-virus-world-and-india-data.p.rapidapi.com",
+    "x-rapidapi-key": "1ae4e674d7msh5a761a0ce3e805cp112bdajsnbcb870fb54b8"
   },
   "body": "",
   "urlParameters": {

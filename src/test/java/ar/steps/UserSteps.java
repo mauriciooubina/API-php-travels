@@ -1,6 +1,7 @@
 package ar.steps;
 
 import api.config.EntityConfiguration;
+import api.model.Country;
 import api.model.World_Total;
 import com.crowdar.api.rest.APIManager;
 import com.crowdar.core.PageSteps;
@@ -45,6 +46,14 @@ public class UserSteps extends PageSteps {
     public void theProperIdReturnedInTheResponse(String cases) {
         World_Total response = (World_Total) APIManager.getLastResponse().getResponse();
         String totalCases = String.valueOf(response.getTotals().getTotal_cases_per_1m_population());
+        Assert.assertEquals(totalCases, cases);
+    }
+
+    @And("The total cases per 1m population for (.*) is (.*)")
+    public void theTotalCasesPerMPopulationForCountryIsCases(String country, String cases) {
+        World_Total response = (World_Total) APIManager.getLastResponse().getResponse();
+        Country countryName = response.getCountry(country);
+        String totalCases = countryName.getTotal_cases_per_1m_population();
         Assert.assertEquals(totalCases, cases);
     }
 }

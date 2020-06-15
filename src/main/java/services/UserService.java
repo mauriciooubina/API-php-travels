@@ -11,7 +11,7 @@ public class UserService extends MethodsService {
        return get(jsonName, World_Total.class);
     }
 
-    /*public static Response post(String jsonName) {
+    public static Response post(String jsonName) {
         return post(jsonName, UserCreated.class);
-    }*/
+    }
 }
