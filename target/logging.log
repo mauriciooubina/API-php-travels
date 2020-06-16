@@ -447,3 +447,535 @@
 15/06/20 12:38:13 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
 15/06/20 12:38:13 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
 15/06/20 12:38:13 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+15/06/20 18:55:52 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+15/06/20 18:55:52 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+15/06/20 18:55:52 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+15/06/20 18:55:52 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+15/06/20 18:55:52 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+15/06/20 18:55:52 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+15/06/20 18:55:52 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+15/06/20 18:55:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:56 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+15/06/20 18:55:56 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+15/06/20 18:55:56 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+15/06/20 18:55:56 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+15/06/20 18:55:57 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:57 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:57 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:57 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+15/06/20 18:55:57 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+15/06/20 18:55:57 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+15/06/20 18:55:59 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:59 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:59 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:55:59 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+15/06/20 18:55:59 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+15/06/20 18:55:59 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+15/06/20 18:56:01 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+15/06/20 18:56:01 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+15/06/20 18:56:01 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:42:47 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:42:47 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:42:47 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:42:47 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:42:47 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:42:47 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:42:47 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:42:51 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:51 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:51 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:51 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:42:51 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:42:51 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:42:51 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:42:53 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:53 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:53 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:53 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:42:53 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:42:53 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:42:54 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:54 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:54 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:54 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:42:54 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:42:54 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:42:56 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:42:56 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:42:56 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:43:51 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:43:51 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:43:51 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:43:51 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:43:51 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:43:51 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:43:51 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:43:54 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:54 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:54 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:54 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:43:54 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:43:54 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:43:54 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:43:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:56 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:56 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:43:56 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:43:56 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:43:58 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:43:58 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:43:58 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:44:22 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:44:22 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:44:22 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:44:22 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:44:22 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:44:22 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:44:22 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:44:25 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:25 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:25 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:25 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:44:25 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:44:25 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:44:25 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:44:27 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:27 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:27 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:27 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:44:27 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:44:27 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:44:28 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:44:28 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:44:28 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:44:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:44:29 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:46:35 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:46:35 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:46:35 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:46:35 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:46:35 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:46:35 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:46:35 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:46:38 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:38 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:38 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:38 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:46:38 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:46:38 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:46:38 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:46:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:40 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:46:40 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:46:40 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:46:41 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:46:41 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:46:41 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:47:37 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 12:47:37 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:47:37 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:47:37 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:47:37 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 12:47:37 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 12:47:37 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 12:47:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:40 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 12:47:40 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 12:47:40 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 12:47:40 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 12:47:42 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:42 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:42 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:42 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 12:47:42 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 12:47:42 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 12:47:43 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 12:47:43 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:47:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:48:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:48:33 INFO  ExtentReportManager:160 - ------flushing Thread : 14
+16/06/20 12:48:37 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:48:37 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:48:37 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:48:37 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:48:37 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:48:37 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:48:37 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:48:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:40 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:40 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:48:40 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:48:40 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:48:40 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:48:42 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:42 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:42 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:42 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:48:42 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:48:42 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:48:44 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:48:44 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:50:39 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:50:39 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:50:39 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:50:39 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:50:39 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:50:40 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:50:40 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:50:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:43 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:43 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:50:43 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:50:43 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:50:43 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:50:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:44 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:44 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:50:44 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:50:44 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:50:46 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:50:46 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:51:27 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:51:27 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:51:27 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:51:28 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:51:28 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:51:28 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:51:28 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:51:30 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:30 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:30 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:30 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:30 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:51:30 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:51:30 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:51:30 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:51:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:32 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:51:32 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:51:32 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:51:34 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:51:34 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 12:52:09 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 12:52:09 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:52:09 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:52:09 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:52:09 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 12:52:09 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 12:52:09 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 12:52:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:52:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:52:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 12:59:23 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:59:23 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 12:59:23 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 12:59:23 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 12:59:23 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:59:23 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:59:23 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:59:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:28 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:28 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:59:28 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:59:28 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:59:28 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:59:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:29 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:59:29 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:59:29 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 12:59:31 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 12:59:31 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 13:00:05 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 13:00:05 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 13:00:05 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 13:00:05 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 13:00:05 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 13:00:05 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 13:00:05 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 13:00:09 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:09 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:09 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:09 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 13:00:09 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 13:00:09 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 13:00:09 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 13:00:10 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:10 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:10 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:10 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 13:00:10 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 13:00:10 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 13:00:12 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:00:12 INFO  ExtentReportManager:160 - ------flushing Thread : 14
+16/06/20 13:00:25 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 1
+16/06/20 13:00:25 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 13:00:25 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 13:00:26 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 13:00:26 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 1
+16/06/20 13:00:26 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 1
+16/06/20 13:00:26 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 1
+16/06/20 13:00:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:29 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:29 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 1
+16/06/20 13:00:29 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 1
+16/06/20 13:00:29 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 1
+16/06/20 13:00:29 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 1
+16/06/20 13:00:30 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:30 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:30 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:30 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 1
+16/06/20 13:00:30 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 1
+16/06/20 13:00:30 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 1
+16/06/20 13:00:32 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 1
+16/06/20 13:00:32 INFO  ExtentReportManager:160 - ------flushing Thread : 1
+16/06/20 13:01:22 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 13:01:22 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 13:01:22 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 13:01:22 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 13:01:22 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 13:01:22 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 13:01:22 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 13:01:26 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:01:26 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:01:26 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:01:51 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 14
+16/06/20 13:01:51 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 14
+16/06/20 13:01:51 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 14
+16/06/20 13:01:51 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 14
+16/06/20 13:01:51 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 14
+16/06/20 13:05:28 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:05:28 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 13:05:28 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 13:05:28 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 13:05:28 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:05:28 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:05:28 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:05:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:31 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:31 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:05:31 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:05:31 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:05:31 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:05:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:33 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:05:33 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:05:33 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:05:34 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:05:34 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 13:06:01 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:01 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 13:06:01 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 13:06:01 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 13:06:01 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:06:01 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:01 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:05 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:05 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:05 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:05 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:05 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:05 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:06:05 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:05 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:06 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:06 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:06 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:06 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:06 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:06 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:08 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:08 INFO  ExtentReportManager:160 - ------flushing Thread : 13
+16/06/20 13:06:30 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:30 INFO  ExtentReportManager:132 - ------ creating extent report infor --------------------------------
+16/06/20 13:06:30 INFO  ExtentReportManager:79 - #####Extent xml configuration : /home/mauricio/eclipse-workspace/api-php-travels/extent-config.xml
+16/06/20 13:06:30 INFO  ExtentReportManager:125 - --------EXTENTREPORT   Setting Append Existing to true -------------------------------
+16/06/20 13:06:30 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:06:30 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:30 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:33 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:33 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:33 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:06:33 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:33 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:35 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:35 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:35 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:35 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:35 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:35 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:166 - ------Creating Test Feature with Name : Api example 13
+16/06/20 13:06:37 INFO  ExtentReportManager:171 - ------Creating Scenario Outline Node : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:180 - ------Creating Scenario example cucumber : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:217 - ------ Create Scenario Outline Or Standard : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:203 - ------Creating Result cucumber : 13
+16/06/20 13:06:37 INFO  ExtentReportManager:160 - ------flushing Thread : 13

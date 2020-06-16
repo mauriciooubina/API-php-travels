@@ -43,17 +43,24 @@ public class UserSteps extends PageSteps {
     }
 
     @And("^The total cases per 1m population is '(.*)'$")
-    public void theProperIdReturnedInTheResponse(String cases) {
+    public void showResults(String cases) {
         World_Total response = (World_Total) APIManager.getLastResponse().getResponse();
         String totalCases = String.valueOf(response.getTotals().getTotal_cases_per_1m_population());
         Assert.assertEquals(totalCases, cases);
     }
 
     @And("The total cases per 1m population for (.*) is (.*)")
-    public void theTotalCasesPerMPopulationForCountryIsCases(String country, String cases) {
+    public void theTotalCasesPerMPopulationForCountry(String country, String cases) {
         World_Total response = (World_Total) APIManager.getLastResponse().getResponse();
         Country countryName = response.getCountry(country);
         String totalCases = countryName.getTotal_cases_per_1m_population();
         Assert.assertEquals(totalCases, cases);
+    }
+
+    @And("The actual total deaths are (.*)")
+    public void theTotalCasesGoUp(String deaths) {
+        World_Total response = (World_Total) APIManager.getLastResponse().getResponse();
+        String totalCases = String.valueOf(response.getTotals().getTotal_deaths());
+        Assert.assertEquals( totalCases,deaths);
     }
 }
